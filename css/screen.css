@@ -1,0 +1,127 @@
+html {
+	/* whacky page shift scrollbar fix */
+    overflow-y: scroll;
+}
+
+body, html {
+	font-family: "Lucida Grande", Verdana, Arial;
+	background-color: #f0f0f0;
+	margin: 0;
+	padding: 0;
+	color: #000;
+}
+
+#container {
+	width: 720px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#header {
+	font-size: large;
+	color: #444444;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
+#nav {
+	float: right;
+	text-align: right;
+}
+
+#tagline {
+	float: left;
+}
+
+#nav ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+#nav li {
+	padding-right: 5px;
+	padding-left: 5px;
+	padding-bottom: 0;
+	padding-top: 0;
+	display: inline;
+	margin: 0;
+}
+
+#nav a {
+	background: white;
+}
+
+#main {
+	color: #444444;
+	line-height: 1.5em;
+	/*float:left;*/
+}
+
+#sidebar {
+	float: right;
+	width: 230px;
+	padding: 10px;
+	background: #99c;
+}
+
+#footer {
+	clear: both;
+	font-size: small;
+	margin-bottom: 20px;
+}
+
+#footer p {
+	margin: 0;
+	padding: 0;
+}
+
+a {
+	color: #ff6633;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+#header h1 {
+	padding: 0px;
+	margin: 0px;
+	width: 0px;
+}
+
+#tagline a {
+	color: #444444;
+	font-weight: bold;
+}
+
+.alignleft {
+	float: left;
+}
+
+.alignright {
+	float: right;
+}
+
+.post {
+	font-size: inherit;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+.post h1 {
+	font-size: x-large;
+}
+
+.post h1>a {
+	color: black;
+}
+
+.post h2 {
+	font-size: large;
+}
+
+.post h3 {
+	font-size: medium;
+}

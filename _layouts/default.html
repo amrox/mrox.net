@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+    <head>
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+        <meta content="en-us" http-equiv="Content-Language" />
+        <link href="{{ site.base-url }}/css/screen.css" media="screen" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <div id="container">
+            <div id="header">
+                <h1><a href="http://mrox.net">mrox.net</a></h1> 
+                <div id="tagline">
+                    Hand-picked bytes by <a href="http://amrox.me">Andy Mroczkowski</a>.
+                </div>
+                <div id="nav">
+                    <ul>
+                        <li><a href="{{ site.base-url }}/archive.html">Archive</a></li>
+                        <!-- <li><a href="{{ site.base-url }}/atom.xml">Subscribe</a></li> -->
+                        <li><a href="http://feeds.feedburner.com/andymroczblogkowski">Subscribe</a></li>
+                    </ul>
+                </div>
+                <div style="clear: both;"></div>
+								<hr/>
+            </div>
+            <div id="main">
+                {{ content }}
+            </div>
+            <div id="footer">
+                <p class="alignleft">Copyright &copy; 2008-2011 Andy Mroczkowski.</p>
+                <p class="alignright">Powered by <a href="https://github.com/mojombo/jekyll/wiki">Jekyll</a>. <!--Hosting by <a href="http://github.com">GitHub</a>.--></p>
+                <div style="clear: both;"></div>
+            </div>
+        </div>
+				<script type="text/javascript">
+				var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+				document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+				</script>
+				<script type="text/javascript">
+				var pageTracker = _gat._getTracker("UA-3509200-1");
+				pageTracker._initData();
+				pageTracker._trackPageview();
+				</script>
+    </body>
+</html>
