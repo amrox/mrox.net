@@ -20,7 +20,7 @@ body, html {
 #header {
 	font-size: large;
 	color: #444444;
-	margin-bottom: 10px;
+	margin-bottom: 20px;
 	margin-top: 10px;
 }
 
@@ -56,6 +56,12 @@ body, html {
 	color: #444444;
 	line-height: 1.5em;
 	/*float:left;*/
+}
+
+#main hr {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	background-color: #da7ffb;
 }
 
 #sidebar {

@@ -9,5 +9,7 @@ title: Andy Mroczkowski
    <div style="clear: both;"></div>
   {{ post.content }}
   </div>
-<hr />
+	{% if forloop.rindex0 > 0 %}
+	<hr />
+	{% endif %}
 {% endfor %}
