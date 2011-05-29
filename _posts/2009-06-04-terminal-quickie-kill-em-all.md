@@ -1,7 +1,7 @@
 ---
 kind: article
 layout: post
-created_at: 2009-06-04 18:56:00 -04:00
+date: 2009-06-04 18:56:00 -04:00
 title: "Terminal Quickie: Kill Em All"
 existing_url: http://mrox.net/blog/2009/06/04/terminal-quickie-kill-em-all/
 ---

@@ -1,8 +1,8 @@
 ---
 kind: article
 layout: post
-created_at: 2008-11-30 19:54:00 -04:00
-title: Learning the Terminal on the Mac - Introduction and Moving Around
+date: 2008-11-30 19:54:00 -04:00
+title: Learning the Terminal on the Mac - Part 1: Introduction and Moving Around
 existing_url: http://mrox.net/blog/2008/06/30/learning-the-terminal-on-the-mac-introduction-and-moving-around/
 asset_root: /assets/2008-06-30-learning-the-terminal-on-the-mac-introduction-and-moving-around/
 

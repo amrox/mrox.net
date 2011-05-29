@@ -1,7 +1,7 @@
 ---
 kind: article
 layout: post
-created_at: 2009-07-30 19:23:00 -04:00
+date: 2009-07-30 19:23:00 -04:00
 title: Wildcard App IDs and Push Notifications
 existing_url: http://mrox.net/blog/2009/07/30/wildcard-app-id-and-push-notifications/
 ---

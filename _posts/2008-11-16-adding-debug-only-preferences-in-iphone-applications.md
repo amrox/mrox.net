@@ -1,7 +1,7 @@
 ---
 kind: article
 layout: post
-created_at: 2008-11-16 11:21:00 -04:00
+date: 2008-11-16 11:21:00 -04:00
 title: Adding Debug-only Preferences in iPhone Applications
 existing_url: http://mrox.net/blog/2008/11/16/adding-debug-only-preferences-in-iphone-applications/
 asset_root: /assets/2008-11-16-adding-debug-only-preferences-in-iphone-applications/

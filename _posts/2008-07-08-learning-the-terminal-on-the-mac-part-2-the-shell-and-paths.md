@@ -1,8 +1,8 @@
 ---
 kind: article
 layout: post
-created_at: 2008-08-07 21:17:00 -04:00
-title: Learning the Terminal on the Mac - Part 2 - The Shell and Paths
+date: 2008-08-07 21:17:00 -04:00
+title: "Learning the Terminal on the Mac - Part 2: The Shell and Paths"
 existing_url: http://mrox.net/blog/2008/07/08/learning-the-terminal-on-the-mac-part-2-the-shell-and-paths/
 asset_root: /assets/2008-07-08-learning-the-terminal-on-the-mac-part-2-the-shell-and-paths/
 ---

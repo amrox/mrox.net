@@ -1,7 +1,7 @@
 ---
 kind: article
 layout: post
-created_at: 2009-06-09 14:40:00 -04:00
+date: 2009-06-09 14:40:00 -04:00
 title: An Event Apart 09
 existing_url: http://mrox.net/blog/2009/06/26/an-event-apart-09/
 ---

@@ -1,7 +1,7 @@
 ---
 kind: article
 layout: post
-created_at: 2009-06-19 12:21:00 -04:00
+date: 2009-06-19 12:21:00 -04:00
 title: And the winner is… wait… what?
 existing_url: http://mrox.net/blog/2009/06/19/and-the-winner-is%E2%80%A6-wait%E2%80%A6-what/
 ---

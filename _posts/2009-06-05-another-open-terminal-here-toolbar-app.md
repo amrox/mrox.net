@@ -1,7 +1,7 @@
 ---
 kind: article
 layout: post
-created_at: 2009-06-05 14:08:00 -04:00
+date: 2009-06-05 14:08:00 -04:00
 title: Another "Open Terminal Here" Toolbar App
 existing_url: http://mrox.net/blog/2009/06/05/another-open-terminal-here-toolbar-app/
 ---

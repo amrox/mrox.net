@@ -1,8 +1,8 @@
 ---
 kind: article
 layout: post
-created_at: 2008-08-09 07:46:00 -04:00
-title: Learning the Terminal on the Mac - Part 4 - Bringing Finder and Terminal Together
+date: 2008-08-09 07:46:00 -04:00
+title: "Learning the Terminal on the Mac - Part 4: Bringing Finder and Terminal Together"
 existing_url: http://mrox.net/blog/2008/08/09/learning-the-terminal-on-the-mac-part-4-bringing-finder-and-terminal-together/
 asset_root: /assets/2008-08-09-learning-the-terminal-on-the-mac-part-4-bringing-finder-and-terminal-together/
 

@@ -1,7 +1,7 @@
 ---
 kind: article
 layout: post
-created_at: 2010-02-16 9:26:00 -04:00
+date: 2010-02-16 9:26:00 -04:00
 title: On Background Apps
 existing_url: http://mrox.net/blog/2010/02/16/on-background-apps/
 ---

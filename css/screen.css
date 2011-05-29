@@ -116,8 +116,13 @@ a:hover {
 	padding-top: 10px;
 }
 
+.post code {
+	font-size: larger;
+}
+
 .post h1 {
 	font-size: x-large;
+	line-height: 1.3em;
 }
 
 .post h1>a {

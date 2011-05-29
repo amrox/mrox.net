@@ -1,8 +1,8 @@
 ---
 kind: article
 layout: post
-created_at: 2008-07-17 21:17:00 -04:00
-title: Learning the Terminal on the Mac - Part 3 - Basic File Operations
+date: 2008-07-17 21:17:00 -04:00
+title: "Learning the Terminal on the Mac - Part 3: Basic File Operations"
 existing_url: http://mrox.net/blog/2008/07/17/learning-the-terminal-on-the-mac-part-3-basic-file-operations/
 asset_root: /assets/2008-07-17-learning-the-terminal-on-the-mac-part-3-basic-file-operations/
 ---

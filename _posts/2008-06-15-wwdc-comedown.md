@@ -1,7 +1,7 @@
 ---
 kind: blog
 layout: post
-created_at: 2008-06-15 23:04:00 -04:00
+date: 2008-06-15 23:04:00 -04:00
 title: WWDC Comedown
 existing_url: http://mrox.net/blog/2008/06/15/wwdc-comedown/
 ---
