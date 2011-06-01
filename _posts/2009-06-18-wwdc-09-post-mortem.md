@@ -1,7 +1,7 @@
 ---
 kind: article
 layout: post
-date: 2000-06-18 15:41:00 -04:00
+date: 2009-06-18 15:41:00 -04:00
 title: WWDC 09 Post Mortem
 existing_url: http://mrox.net/blog/2009/06/18/wwdc-09-post-mortem/
 ---
