@@ -77,4 +77,4 @@ I would love a a [PyPi](http://pypi.python.org/pypi) or [gem](http://rubygems.or
 
 - - - 
 
-\* *[Karl Stenerud](http://github.com/kstenerud) has done some great work on  creating "fake" [static frameworks for iOS](), but they require installing additional templates or patching Xcode itself. I didn't want to require the users of my library to make changes to their system.*
+\* *[Karl Stenerud](http://github.com/kstenerud) has done some great work on  creating "fake" [static frameworks for iOS](https://github.com/kstenerud/iOS-Universal-Framework), but they require installing additional templates or patching Xcode itself. I didn't want to require the users of my library to make changes to their system.*
