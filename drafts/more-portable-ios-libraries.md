@@ -5,14 +5,12 @@ title: "Framework-like Static Libraries"
 asset_root: /assets/workspace-layout/
 ---
 
-
-
 Apple Frameworks bundle the headers required to user a library along with the library itself, which makes them easy to use in an application. Integration of built-in frameworks is a two step process:
 
 1. Add the framework to the "Link with Binary Libraries" phase
 2. Import the framework in your source (`#import <Framework/Framework.h>`)
 
-However, frameworks are not (officially*) available on iOS, so we are left with traditional static libraries. Static libraries are a little more cumbersome to use because there is no standard or convention for including their public headers. Usually you must either:
+However, frameworks are not (officially * ) available on iOS, so we are left with traditional static libraries. Static libraries are a little more cumbersome to use because there is no standard or convention for including their public headers. Usually you must either:
 
  * Drag the headers into you Xcode project, or
  * Set the `HEADER_SEARCH_PATHS` or `USER_HEADER_SEARCH_PATHS` in your project.

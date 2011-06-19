@@ -58,10 +58,16 @@ body, html {
 	/*float:left;*/
 }
 
-#main hr {
-	margin-top: 50px;
-	margin-bottom: 50px;
+.postsep {
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
+
+.postsep hr {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
 
 #sidebar {
 	float: right;
@@ -111,13 +117,13 @@ a:hover {
 }
 
 .post {
-	font-size: inherit;
+	font-size: 13px;
 	padding-bottom: 10px;
 	padding-top: 10px;
 }
 
 .post code {
-	font-size: larger;
+	/*font-size: larger;*/
 }
 
 .post h1 {
@@ -135,4 +141,14 @@ a:hover {
 
 .post h3 {
 	font-size: medium;
+}
+
+.post hr {
+    margin-top: 0px;
+	margin-bottom: 0px;
+    width:75%;
+}
+
+#disqus_thread {
+    margin-top: 40px;
 }
