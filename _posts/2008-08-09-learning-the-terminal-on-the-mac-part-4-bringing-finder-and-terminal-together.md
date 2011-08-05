@@ -48,7 +48,7 @@ And voilà, the path is inserted into the shell:
 
 <h3>OpenTerminalHere</h3>
 
-<em>OpenTerminalHere</em> is a small Applescript application that launches Terminal and automatically <code>cd</code>'s to the current folder in Finder.  It was originally written by <a href="http://www.entropy.ch/software/applescript/">Marc Liyanage</a> and has since been <a href="http://jo.irisson.free.fr/?p=59">updated</a> to make it more Leopard-friendly.  I find it extremely handy, and if you think you would too, go <a href="http://jo.irisson.free.fr/?p=59">here for the download and setup instructions</a>.
+*OpenTerminalHere* is a small Applescript application that launches Terminal and automatically <code>cd</code>'s to the current folder in Finder.  It was originally written by <a href="http://www.entropy.ch/software/applescript/">Marc Liyanage</a> and has since been <a href="http://jo.irisson.free.fr/?p=59">updated</a> to make it more Leopard-friendly.  I find it extremely handy, and if you think you would too, go <a href="http://jo.irisson.free.fr/?p=59">here for the download and setup instructions</a>.
 
 OpenTerminalHere is meant to be installed into Finder's toolbar.  This is done by simply dragging the OpenTerminalHere icon to Finder's toolbar and pausing a few seconds until a small green "plus" indicator appears next to the mouse pointer.  If you want to tweak the position of OpenTerminalHere or add spacing, choose <code>View → Customize Toolbar…</code> in Finder's menu after installing.
 
@@ -101,7 +101,7 @@ open -t ~/Music/iTunes/iTunes\ Music\ Library.xml
 
 <h3>Revealing Files in Finder</h3>
 
-The <code>open</code> command can be used to open folders in Finder, but we don't have a way to <em>reveal</em> a file within a folder.  Many applications have a built-in "Show in Finder" feature, but unfortunately the shell does not.  However, all hope is not lost.
+The <code>open</code> command can be used to open folders in Finder, but we don't have a way to *reveal* a file within a folder.  Many applications have a built-in "Show in Finder" feature, but unfortunately the shell does not.  However, all hope is not lost.
 
 One of the simplest ways to add new commands in the shell is through creating <em>shell scripts</em>.  Shell scripting is a deep topic in itself, but for know, just think of a shell script as a small program that is interpreted by the shell itself.  Shell scripts are written in plain text so they are quick to create and easy to modify.
 
@@ -210,7 +210,8 @@ exit 0
 </code>
 </blockquote>
 
-<a href="{{ page.asset_root }}reveal.zip">Download the <code>reveal</code> script</a> (and unzip it if necessary).
+<a href="{{ page.asset_root }}reveal.zip">Download the <code>reveal</code> script</a>
+(and unzip it if necessary).
 
 <h4>Installation</h4>
 

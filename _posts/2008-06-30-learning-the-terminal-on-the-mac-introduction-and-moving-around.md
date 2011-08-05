@@ -2,10 +2,9 @@
 kind: article
 layout: post
 date: 2008-11-30 19:54:00 -04:00
-title: Learning the Terminal on the Mac - Part 1: Introduction and Moving Around
+title: "Learning the Terminal on the Mac - Part 1: Introduction and Moving Around"
 existing_url: http://mrox.net/blog/2008/06/30/learning-the-terminal-on-the-mac-introduction-and-moving-around/
 asset_root: /assets/2008-06-30-learning-the-terminal-on-the-mac-introduction-and-moving-around/
-
 ---
 
 The is the first of hopefully several short articles describing the basics of using the terminal in Mac OS X.  This is aimed at absolute beginners who have never used a command line interface before.  The first few installments are likely to be very screenshot heavy, because the command line has a rather steep learning curve.  Every little bit helps.
@@ -51,7 +50,7 @@ Type `cd Documents` and press `<enter>`.  Make sure you capitalize `Documents`. 
 
 <img src="{{ page.asset_root }}tt1-05-cd.png" border="0" alt="tt1_05-cd.png" width="585" height="447" />
 
-<a name="prompt"> </a> <!-- the space between the open and close tags is required for proper md parsing -->
+<a name="prompt"> </a>
 
 You may have noticed that the prompt changed.  The default prompt looks fairly cryptic at first, but it's actually very simple.  The first part before the colon is the computer name or *hostname*.  It may seem like this is superfluous information - of course you are on your computer.  But as we'll see in future articles, this will come in handy.  The second portion is the name of the current working directory.  Next, we have our current user name, which again will be more useful in the future.  The final `$` is standard in many shell prompts.  It denotes that you are a standard user, as opposed to a *root* or *super* user, in which case you would see a `#` instead.
 
