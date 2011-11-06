@@ -2,7 +2,7 @@
 kind: article
 layout: post
 title: "\"Missing\" the Point about Steve Jobs"
-comments: true
+comments: false
 ---
 
 [Ricardo Bilton commenting on Steve Jobs' resignation](http://www.zdnet.com/blog/gadgetreviews/what-steve-jobs-means-to-me-absolutely-nothing/27162):

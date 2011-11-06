@@ -8,6 +8,11 @@ title: Andy Mroczkowski
    <p class="alignright">&mdash; {{ post.date | date: "%b %d, %Y" }}</p>
    <div style="clear: both;"></div>
   {{ post.content }}
+  {% if post.comments %}
+  	<h2 class="alignright">
+		<a href="{{ post.url }}/#comments">Comments &raquo;</a>
+	</h2>
+  {% endif %}
   </div>
 	{% if forloop.rindex0 > 0 %}
 	<hr class="postsep" />
