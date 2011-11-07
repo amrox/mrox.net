@@ -2,19 +2,14 @@
 layout: default
 title: Andy Mroczkowski
 ---
-{% for post in site.posts limit:5 %}
-  <div class="post">
-   <h1 class="alignleft"><a href="{{ post.url }}">{{ post.title }}</a></h1>
-   <p class="alignright">&mdash; {{ post.date | date: "%b %d, %Y" }}</p>
-   <div style="clear: both;"></div>
-  {{ post.content }}
-  {% if post.comments %}
-  	<h2 class="alignright">
-		<a href="{{ post.url }}/#comments">Comments &raquo;</a>
-	</h2>
-  {% endif %}
-  </div>
-	{% if forloop.rindex0 > 0 %}
-	<hr class="postsep" />
-	{% endif %}
-{% endfor %}
+<!--<h2 id="intro">The list of all {{ site.posts.size }} archived posts.</h2>-->
+
+<div class="post">
+   <ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a> &mdash;  {{ post.date | date: "%b %d, %Y"  }} 
+    </li>
+  {% endfor %}
+  </ul>
+</div>

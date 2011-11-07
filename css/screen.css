@@ -22,15 +22,17 @@ body, html {
 	color: #444444;
 	margin-bottom: 20px;
 	margin-top: 10px;
+	position: relative;
 }
 
 #nav {
-	float: right;
-	text-align: right;
+/*	text-align: right; */
+	position: absolute; bottom: 0; right: 0;
+	padding-bottom: 5px;
 }
 
 #tagline {
-	float: left;
+/*	float: left; */
 }
 
 #nav ul {
@@ -40,8 +42,8 @@ body, html {
 }
 
 #nav li {
-	padding-right: 5px;
-	padding-left: 5px;
+	padding-right: 0px;
+	padding-left: 0px;
 	padding-bottom: 0;
 	padding-top: 0;
 	display: inline;
@@ -100,7 +102,6 @@ a:hover {
 #header h1 {
 	padding: 0px;
 	margin: 0px;
-	width: 0px;
 }
 
 #header a {
@@ -114,10 +115,14 @@ a:hover {
 
 
 #tagline a {
-/*	color: #444444; */
     color: black;
 	text-decoration: none;
 	font-weight: bold;
+}
+
+#tagline a:hover {
+    color: #ff6633;
+    text-decoration: none;
 }
 
 
